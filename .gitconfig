@@ -1,0 +1,11 @@
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
+[user]
+	name = Mahi
+	emal = r.mahendra1985@gmail.com
+	email = mahendra.ramajayam@gmail.com
+[core]
+	editor = atom
+	excludesfile = /home/mahi/.gitignore_global
