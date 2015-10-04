@@ -133,3 +133,9 @@ source ~/.git-prompt.sh
 # '\W' adds the name of the current directory
 
 PS1="\[\e[1;32m\]\u \[\e[0;34m\]\w \[\e[4;31m\]\$(__git_ps1)\[\e[m\]\[\e[1;32m\]\$ \[\e[1;37m\]"
+
+PROMPT_DIRTRIM=3
+
+
+
+
